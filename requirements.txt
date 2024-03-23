@@ -1,2 +1,7 @@
 numpy
 pandas
+matplotlib
+seaborn
+langchain
+openai
+langchain-openai
